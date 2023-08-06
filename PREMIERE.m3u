@@ -1,6 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/23/05/30/14/43/4339481.jpg", Insidious: Sound of Freedom | Phoenix'DreamsTV
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/41816-371949-20230505020537.jpg", Elementos | Phoenix'DreamsTV
+https://ia902704.us.archive.org/6/items/kr-4k-51r-3n-45/3l3m3nt4L.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.findelahistoria.com/web/wp-content/uploads/2013/09/20130919-004704.jpg", Empair State | Phoenix'DreamsTV
+https://ia802703.us.archive.org/16/items/3mp-1r-3-5t-4t-3/3mp1r3%205t4t3.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_67215a3e.jpeg", Indiana Jones | Phoenix'DreamsTV
+https://ia802700.us.archive.org/5/items/1ndi-4n-4/1ndi_4n4.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/23/05/30/14/43/4339481.jpg", Sound of Freedom | Phoenix'DreamsTV
 https://ia802702.us.archive.org/24/items/50und-fr-3/50und-fr3.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Insidious_the_red_door.png", Insidious: La Puerta Roja | Phoenix'DreamsTV
