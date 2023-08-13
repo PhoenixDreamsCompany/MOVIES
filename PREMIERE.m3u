@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Warhorse_One-314432323-large.jpg", Warhorse One | Phoenix'DreamsTV
+https://ia600506.us.archive.org/33/items/w4rh0rs3_0n3/w4rh0rs3_0n3.mp4
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Capitaan_Phillips-273270973-large.jpg", Capitán Phillips | Phoenix'DreamsTV
+https://ia902700.us.archive.org/13/items/c-4p-ph-1ll-1p-5/C4p_%20Ph1ll1p5%20.mp4
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://vreg.com/wp-content/uploads/2023/06/Screenshot-2023-06-14-at-2.54.16-PM.png", Murder City | Phoenix'DreamsTV
+https://ia600506.us.archive.org/33/items/murd3r.c1ty/murd3r.c1ty.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.ecartelera.com/carteles/11500/11597/028_m.jpg", Barbie | Phoenix'DreamsTV
 https://drive.google.com/file/d/1WXmPw1mKyXNGl0sMKnxXstgmQ6E3v3Dd/view?usp=drive_link
 
