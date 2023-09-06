@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/42650-169278-20230602013018.jpg", Megalodón 2 | Phoenix'DreamsTV
+https://ia800506.us.archive.org/16/items/m3g.2/m3g.2.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Misiaon_imposible_Sentencia_mortal_Parte_1-902615661-large.jpg", Misión Imposible: Sentencia Mortal Parte 1 | Phoenix'DreamsTV
+https://ia800507.us.archive.org/18/items/m-1mp-051bl-3-1/M_1mp051bl3-1.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w300/ktAzb7Ygf3hwq84tOWXL8ox832k.jpg", LEGO Disney Princess: Misión castillo | Phoenix'DreamsTV
+https://ia800507.us.archive.org/8/items/l-3g-0-pr-1n-55/L3g0_pr1n55.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Warhorse_One-314432323-large.jpg", Warhorse One | Phoenix'DreamsTV
 https://ia600506.us.archive.org/33/items/w4rh0rs3_0n3/w4rh0rs3_0n3.mp4
 
