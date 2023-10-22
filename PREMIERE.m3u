@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/43117-521491-20231012020650.jpg", El Justiciero 3: Capítulo Final | Phoenix'DreamsTV
+https://ia601508.us.archive.org/15/items/ju5t1-c13r0/ju5t1-c13r0.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://macabro.mx/2023/wp-content/uploads/2023/07/15_rabia.jpg", RABIA | Phoenix'DreamsTV
+https://ia600505.us.archive.org/6/items/r4b1-4/r4b1-4.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/7GmSsEw1D7IAtG2EEJ9W4Vkrmp8.jpg", Hada traviesa de lo dientes | Phoenix'DreamsTV
+https://ia600508.us.archive.org/29/items/h4d4_20231022/h4d4.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://gnula.nu/wp-content/uploads/2023/10/Pet_Sematary_Bloodlines_poster_usa.jpg", Cementerio de animales: El origen | Phoenix'DreamsTV
+https://ia600501.us.archive.org/29/items/c3m3nt3r10/c3m3nt3r10.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://decine21.com/img/upload/obras/la-patrulla-canina-la-superpelicula-47246/la-patrulla-canina-la-superpelicula-47246-c.jpg", PAW Patrol | Phoenix'DreamsTV
 https://ia600503.us.archive.org/3/items/p4w.p4tr0l/p4w.p4tr0l.mp4
 
